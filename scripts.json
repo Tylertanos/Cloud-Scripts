@@ -1,0 +1,20 @@
+{
+  "TylersScripts": [
+    {"Name": "Infinite Yield", "Url": "https://githubusercontent.com"},
+    {"Name": "Admin Panel", "Url": "https://githubusercontent.com"}
+  ],
+  "Recommended": [
+    {"Name": "Anti-AFK", "Url": "https://githubusercontent.com"}
+  ],
+  "Discover": {
+    "Dangerous": [
+      {"Name": "Server Crasher", "Url": "https://githubusercontent.com"}
+    ],
+    "18plus": [
+      {"Name": "Secret Script", "Url": "https://githubusercontent.com"}
+    ],
+    "Normal": [
+      {"Name": "Fly Script", "Url": "https://githubusercontent.com"}
+    ]
+  }
+}
